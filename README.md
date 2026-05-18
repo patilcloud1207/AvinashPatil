@@ -1,21 +1,23 @@
-# 👋 Hi, I'm Avinash Patil
+<h1 align="center">👋 Hi, I'm Avinash Patil</h1>
 
-## 🚀 Cloud & DevOps Engineer (Aspiring)
+<h3 align="center">☁️ Cloud & DevOps Engineer (Aspiring)</h3>
 
-Welcome to my GitHub profile! I am passionate about designing and deploying scalable cloud infrastructure using AWS and DevOps tools.
+<p align="center">
+Passionate about building scalable cloud infrastructure using AWS and DevOps tools.
+</p>
 
 ---
 
 ## 💼 About Me
 
-- 🎓 B.Tech Computer Science (Cloud Computing) | 2026 Pass Out  
-- ☁️ Focused on AWS Cloud & DevOps Engineering  
-- 🧠 Learning real-world infrastructure & automation  
-- 🎯 Goal: Become a Cloud/DevOps Engineer in a top IT company  
+🎓 B.Tech Computer Science (Cloud Computing) | 2026 Pass Out  
+☁️ Focused on AWS Cloud & DevOps Engineering  
+🧠 Learning real-world infrastructure & automation  
+🎯 Goal: Cloud / DevOps Engineer in a top IT company  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### ☁️ Cloud (AWS)
 - EC2 (Instances, Security Groups)
@@ -25,16 +27,16 @@ Welcome to my GitHub profile! I am passionate about designing and deploying scal
 - IAM Basics
 
 ### 💻 Operating System
-- Linux (commands, permissions, services)
+- Linux (Commands, Permissions, Services)
 
 ### 🔧 Tools
 - Git & GitHub
-- Basic Docker (learning)
+- Docker (Basic)
 
 ### 🌐 Networking
 - IP Addressing
 - DNS
-- HTTP/HTTPS
+- HTTP / HTTPS
 - SSH
 
 ---
@@ -47,23 +49,17 @@ Welcome to my GitHub profile! I am passionate about designing and deploying scal
 - Used Target Groups for health checks  
 - Created AMI for reusable server deployment  
 
-📌 Repo: aws-high-availability-project
+📌 Repository: aws-high-availability-project
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashPatil&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvinashPatil&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
-
-## 🎯 Career Objective
-
-To become a Cloud & DevOps Engineer and work on scalable, secure cloud infrastructure systems.
-
----
-
-## 📫 Contact
 
 - 📧 Email: ankitpatil6057@gmail.com  
 - 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/avinash-patil-20574a298/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnahfMUDFSoy5ZOab838lAQ%3D%3D)  
